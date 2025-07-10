@@ -42,6 +42,7 @@ const styles = {
     padding: "10px 20px",
     backgroundColor: "#007bff",
     color: "white",
+    
     border: "none",
     borderRadius: "5px",
     fontSize: "16px",
